@@ -1,0 +1,276 @@
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csprojAssemblyReference.cache
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmCaptura.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmExp.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmLogin.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.winCapturaFirst.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.winCapturaSecond.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.SuggestedBindingRedirects.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmCaptura.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmExp.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmLogin.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.winCapturaFirst.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.winCapturaSecond.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmCaptura.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmExp.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmLogin.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.winCapturaFirst.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.winCapturaSecond.resources
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Costo\OneDrive\Escritorio\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.SuggestedBindingRedirects.cache
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.PralMenu.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.StatsRead.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+F:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.PralMenu.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.StatsRead.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\Debug\AMIC.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdateStepB.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdateStepA.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdateStepB.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdateStepA.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe.config
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.exe
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\bin\Debug\AMIC.pdb
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.AssemblyReference.cache
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdateStepB.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdateStepA.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesUpdate.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreate.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesRead.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmMenu.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.frmStats.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.DataFlowContainer.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersUpdate.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersCreate.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersLogin.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.Properties.Resources.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FormMessageBox.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.RJTextBox.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepA.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.FilesCreateStepB.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.UsersRead.resources
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.GenerateResource.cache
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.exe
+C:\Users\dresp\Downloads\AMIC 5 ALT VERSION (1)\Amic visual\AMIC_EXPEDIENTES\obj\Debug\AMIC.pdb

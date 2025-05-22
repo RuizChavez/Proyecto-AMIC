@@ -1,0 +1,244 @@
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csprojAssemblyReference.cache
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmCaptura.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmExp.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmLogin.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.winCapturaFirst.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.winCapturaSecond.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmCaptura.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmExp.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmLogin.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.winCapturaFirst.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.winCapturaSecond.resources
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\source\repos\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmCaptura.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmExp.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmLogin.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.winCapturaFirst.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.winCapturaSecond.resources
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+E:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\CustomControls.RJControls.FormMessageBox.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+D:\AMIC_EXPEDIENTES\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepC.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.PralMenu.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.StatsRead.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+D:\ITH\AMIC_EXPEDIENTES2\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC\AMIC_7\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC\AMICosOdioGPS\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.PralMenu.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.StatsRead.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMI_2.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdateStepB.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdateStepA.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdate.resources
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMI_2.2\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdateStepB.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdateStepA.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesRead.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmMenu.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.frmStats.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.DataFlowContainer.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersUpdate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersCreate.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersLogin.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FormMessageBox.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.RJTextBox.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepA.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesCreateStepB.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.UsersRead.resources
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.pdb
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Pedro\Desktop\AMIC_3.1\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.pdb
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdateStepB.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdateStepA.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.FilesUpdate.resources
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll.config
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\bin\x64\Release\AMIC.dll
+C:\Users\Abeled\Desktop\AMIC\Amic visual\AMIC_EXPEDIENTES\obj\x64\Release\AMIC.dll

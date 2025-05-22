@@ -1,0 +1,3 @@
+@echo off
+set ICON_FILE=\AMIC\numpsoft.ico
+py - m pyinstaller --onefile --icon=%ICON_FILE% your_script.py
